@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hey, I’m Alex
 
-<!--
-**alexanderrheaton/alexanderrheaton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT Support Specialist building toward Cloud & Infrastructure Engineering.
 
-Here are some ideas to get you started:
+I’m currently focused on developing hands-on experience in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔐 Linux server hardening
+- ☁️ AWS infrastructure
+- 🌐 Network segmentation & security
+- 📊 Monitoring & observability
+- ⚙️ Infrastructure automation
+
+I’m building a multi-project infrastructure portfolio to strengthen real-world cloud engineering skills beyond certifications.
+
+📌 Featured Project:
+Hardened Ubuntu EC2 Deployment  
+Defense-in-depth implementation across AWS and OS layers.
+
+More projects coming soon.
